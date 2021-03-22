@@ -1,0 +1,1 @@
+[https://nuxtjs.org/blog/creating-blog-with-nuxt-content](https://nuxtjs.org/blog/creating-blog-with-nuxt-content)
